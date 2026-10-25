@@ -12,8 +12,7 @@ import java.util.Scanner;
 public class Prakswitch {
 
     public static void main(String[] args) {
-        System.out.println("Monday");
-        Scanner input=new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         int day = input.nextInt();
        int Scanner = 4;
        switch (Scanner) {

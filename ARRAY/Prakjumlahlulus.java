@@ -11,7 +11,7 @@ package ARRAY;
 public class Prakjumlahlulus {
 
     public static void main(String[] args) {
-        int[] nilai = {80, 75, 90,85};
+        int[] nilai = {80, 75, 90, 85, 70};
         int jumlahLulus = 0;
         
         for (int i = 0; i < nilai.length; i++) {
