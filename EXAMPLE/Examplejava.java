@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package EXAMPLE;
 
-/**
- *
- * @author TIARA
- */
 public class Examplejava {
 
     public static void main(String[] args) {

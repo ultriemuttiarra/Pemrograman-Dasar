@@ -1,14 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package EXAMPLE;
 import java.util.Scanner;
 
-/**
- *
- * @author TIARA
- */
 public class Simulasitabungan {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
